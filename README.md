@@ -1,6 +1,6 @@
 # WeatherNow
 
-A clean weather dashboard built with **React**, **Vite**, **TypeScript**, and **Tailwind CSS**.
+A clean weather dashboard built with **React**, **Vite**, **TS**, and **Tailwind CSS**.
 
 ### Features
 
